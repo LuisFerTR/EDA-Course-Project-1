@@ -78,14 +78,16 @@ include the code that creates the PNG file.
 
 * Add the PNG file and R code file to your git repository
 
+### Resulting figures
+
 #### Plot 1
-![](https://github.com/rdpeng/ExData_Plotting1/blob/master/figure/unnamed-chunk-2.png?raw=true)
+![](https://github.com/LuisFerTR/EDA-Course-Project-1/blob/main/plot1.png?raw=true)
 
 #### Plot 2
-![](https://github.com/rdpeng/ExData_Plotting1/blob/master/figure/unnamed-chunk-3.png?raw=true)
+![](https://github.com/LuisFerTR/EDA-Course-Project-1/blob/main/plot2.png?raw=true)
 
 #### Plot 3
-![](https://github.com/rdpeng/ExData_Plotting1/blob/master/figure/unnamed-chunk-4.png?raw=true)
+![](https://github.com/LuisFerTR/EDA-Course-Project-1/blob/main/plot3.png?raw=true)
 
-### Plot 4
-![](https://github.com/rdpeng/ExData_Plotting1/blob/master/figure/unnamed-chunk-5.png?raw=true)
+#### Plot 4
+![](https://github.com/LuisFerTR/EDA-Course-Project-1/blob/main/plot4.png?raw=true)
